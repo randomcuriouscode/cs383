@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+    {
+        "python_interpreter": "/Users/rpg711/.virtualenvs/cs383/bin/python3"
+    }
+}

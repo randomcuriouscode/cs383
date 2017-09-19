@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shortest",
+				"shortest_path"
+			],
+			[
+				"short",
+				"shortest_path"
+			],
+			[
+				"hashed",
+				"hashed_state"
+			],
+			[
+				"path",
+				"path_cost"
+			],
+			[
+				"frontier",
+				"frontier_map"
+			],
+			[
+				"num",
+				"num_generated"
+			],
+			[
+				"init",
+				"init_state"
+			],
+			[
+				"fil",
+				"File\tclass"
+			],
+			[
+				"res",
+				"resText\tstatement"
+			],
+			[
+				"string",
+				"stringize_set"
+			],
+			[
+				"file",
+				"fileindex"
+			],
+			[
+				"insert",
+				"insert_node"
+			],
+			[
+				"white",
+				"floralwhite"
+			],
+			[
+				"nav",
+				"nav-center\t main.css"
+			],
+			[
+				"Stand",
+				"StandardOpenOption"
+			],
+			[
+				"constant",
+				"constant_path1"
+			],
+			[
+				"constantpath",
+				"constant_path0"
+			],
+			[
+				"newavail",
+				"newavailmap"
+			],
+			[
+				"value",
+				"value_loop"
+			],
+			[
+				"board1",
+				"board1count"
+			],
+			[
+				"available",
+				"availableValuesAt"
+			],
+			[
+				"list",
+				"list_length"
+			],
+			[
+				"listlike",
+				"listlike"
+			],
+			[
+				"find",
+				"find_pred"
+			],
+			[
+				"expec",
+				"expectancyDataRow"
+			],
+			[
+				"life",
+				"lifeExpectancy"
+			],
+			[
+				"sum",
+				"sumDouble"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CS383.sublime-project",
+			"settings":
+			{
+				"buffer_size": 148,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HW1Assignment/code/my_hw1.py",
+			"settings":
+			{
+				"buffer_size": 8510,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"echo $VIRTUAL_ENV",
+			"echo",
+			"sublime.log_commands(True)",
+			"ls",
+			"exec testbuild",
+			"exec ./testbuild",
+			"exec",
+			"./testbuild"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rpg711/Documents/Classes/Fall 17/CS383",
+		"/Users/rpg711/Documents/Classes/Fall 17/CS383/HW1Assignment",
+		"/Users/rpg711/Documents/Classes/Fall 17/CS383/HW1Assignment/code"
+	],
+	"file_history":
+	[
+		"/Users/rpg711/Documents/Classes/Fall 17/CS383/HW1Assignment/hw1_otherver.py",
+		"/Users/rpg711/Documents/Classes/Fall 17/CS383/HW1Assignment/hw1_2.py",
+		"/Users/rpg711/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/rpg711/Documents/Classes/Fall 17/CS590N/CS590.sublime-project",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/flask_ask_hello_world/templates.yaml",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/python_learning/package_structure/file2.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/python_learning/package_structure/file3.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/flask_test.sublime-project",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/python_learning/package_structure/subpackage/sub_file3.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/python_learning/package_structure/file1.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/python_learning/package_structure/subpackage/sub_file2.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/python_learning/package_structure/__init__.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/python_learning/package_structure/subpackage/__init__.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/python_learning/package_structure/subpackage/sub_file1.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/test_assistant_google_home_int/webhook.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/flask_ask_hello_world/flask_ask_hello_world.sublime-project",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/test_assistant_google_home_int/templates/entities.yaml",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/microblog/run.py",
+		"/Users/rpg711/.virtualenvs/flask/lib/python3.6/site-packages/flask/app.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/microblog/app/views.py",
+		"/Users/rpg711/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/rpg711/Library/Application Support/Sublime Text 3/Packages/User/JSON (Sublime).sublime-settings",
+		"/Users/rpg711/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/microblog/app/__init__.py",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/Flask_Stuff/flask_test.sublime_project.sublime-project",
+		"/Users/rpg711/Documents/VMSharedDocs/bose_professional/flask/bin/activate",
+		"/Users/rpg711/Documents/Classes/Fall 16/CS326/startup_assignment/trunk/build/index.html",
+		"/Users/rpg711/Documents/Classes/Fall 16/CS326/startup_assignment/trunk/build/css/main.css",
+		"/Users/rpg711/Documents/Classes/Spring 16/CS311/Graph Coloring/2Color/largegraph2_output",
+		"/Users/rpg711/Documents/Classes/Spring 16/CS311/Graph Coloring/2Color/smallgraph_output",
+		"/Users/rpg711/Documents/Classes/Spring 16/CS311/Graph Coloring/2Color/time",
+		"/Users/rpg711/Documents/Classes/Spring 16/CS311/Graph Coloring/2Color/largegraph1_cycle",
+		"/Users/rpg711/Documents/Classes/Spring 16/CS311/Graph Coloring/2Color/largegraph2",
+		"/Users/rpg711/Documents/Classes/Spring 16/CS311/Graph Coloring/2Color/trivialcycle",
+		"/Users/rpg711/Documents/Classes/Spring 16/CS311/Graph Coloring/2Color/readme",
+		"/Users/rpg711/Documents/Classes/Spring 16/CS311/Graph Coloring/2Color/outputs",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw10_parsing/plugins.sbt",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw7/sudoku/src/test/scala/TestSuite.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw8_implicits/src/main/scala/PathImplicits.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw7/sudoku/src/main/scala/Solution.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw5/src/main/scala/Solution.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw5/src/main/scala/Provided.scala",
+		"/Users/rpg711/Documents/Classes/CS250/CS250 Java Playground/cs311_anagrams/runtime",
+		"/Users/rpg711/Documents/Classes/CS250/CS250 Java Playground/cs311_anagrams/class_count",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw2/src/test/scala/TestSuite.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw7/sudoku/src/main/Solution.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw7/sudoku/project/plugins.sbt",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw7/sudoku/build.sbt",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw4/src/main/scala/Solution.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw3/src/main/scala/Main.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw2/src/main/scala/Homework2.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw6/generics/build.sbt",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw6/generics/project/plugins.sbt",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw3/src/test/scala/TestSuite.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/Discussion4/src/main/scala/CandyDatabase.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw3/simple-test.csv",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw3/cdc-life-expectancy.csv",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw3/ssa-births.csv",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/Discussion2/src/main/scala/Discussion2.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/Discussion2/src/test/scala/TestSuite.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw1/src/main/scala/Lecture1.scala",
+		"/Users/rpg711/Documents/Classes/Spring 16/cs220/hw1/src/test/scala/TestSuite.scala",
+		"/Users/rpg711/Documents/VMSharedDocs/count-strings-proj/count-strings.c",
+		"/Users/rpg711/Documents/Classes/CS230/testbuild.c",
+		"/Users/rpg711/Library/Application Support/Sublime Text 3/Packages/User/cpp_build_run.sublime-build",
+		"/Users/rpg711/Documents/workspace/Personal/C:C++/iTunes-Volume-Control-master/iTunes Volume Control/AppDelegate.m"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/rpg711/Documents/Classes/Fall 16/CS320/group project/git/LibertyDash/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"print'",
+			"print",
+			"Puzzle",
+			"/python",
+			"PA or segmentation violation?",
+			"__NR_write",
+			"data-reactid=\"1\"",
+			"navDropdown3",
+			"data-reactid=\"82\"",
+			"panel",
+			"opacity",
+			"jumbotron",
+			"opacity",
+			"jumbotron",
+			"center",
+			"title",
+			"btn-block",
+			"btn-lg",
+			"\n            ",
+			"306",
+			"598",
+			"306",
+			"82046",
+			"306",
+			"598",
+			"306",
+			"598",
+			"598\n598",
+			"598",
+			"597",
+			"598",
+			"597",
+			"305",
+			"597",
+			"218",
+			"209",
+			"597",
+			"305",
+			"597",
+			"day",
+			"}\n      }",
+			"James",
+			"james",
+			"margaret",
+			"\t\tcase Duck() => \"dog food\"\n\t\tcase Goose() => \"pate\"\n\t\tcase _ =>  \"bird? error\"\n\t\t}",
+			"volume",
+			"spotify"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"value"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CS383.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".:>",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "HW1Assignment/code/my_hw1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4851,
+								4863
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1646.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cpp_build_run.sublime-build",
+	"project": "CS383.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"test/scala/TrivialTestSuite.scala"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
