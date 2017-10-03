@@ -366,6 +366,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
@@ -391,8 +395,8 @@
 						"selection":
 						[
 							[
-								4851,
-								4863
+								4595,
+								4595
 							]
 						],
 						"settings":
@@ -410,6 +414,10 @@
 								{
 									"characters": ".",
 									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
@@ -418,7 +426,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1646.0,
+						"translation.y": 3092.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
